@@ -1,5 +1,4 @@
-print("Support")
-print("Hello World IT!!")
-print("contacts")
-
+'''
+Hello from Sasha from and Guten Morgen!!!
+'''
 
